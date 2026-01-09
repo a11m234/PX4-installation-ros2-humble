@@ -1,4 +1,4 @@
-# Installing PX4 and ROS 2 Humble on Ubuntu 22.04
+# Installing PX4 and ROS 2 Jazzy on Ubuntu 24.04
 
 This guide details the steps to install the PX4 Autopilot software and ROS 2 Humble Hawksbill on Ubuntu 22.04 LTS.
 
