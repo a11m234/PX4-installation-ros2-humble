@@ -7,8 +7,7 @@ This guide details the steps to install the PX4 Autopilot software and ROS 2 Hum
 * **Ubuntu 24.04 LTS:** A fresh installation is recommended.
     * **Dual Boot:** Generally preferred for better performance, especially for simulations. https://www.youtube.com/watch?v=qq-7X8zLP7g.
     * **Virtual Machine (e.g., VirtualBox, VMware):** An alternative, but may have performance limitations. Ensure you allocate sufficient resources (CPU cores, RAM, disk space). https://www.youtube.com/watch?v=Hva8lsV2nTk .
-* **Internet Connection:** Required for downloading packages and cloning repositories.
-* **Basic Linux Terminal Knowledge:** Familiarity with navigating directories (`cd`) and running commands.
+
 
 ## Step 1: Initial System Update and Essential Tools
 
